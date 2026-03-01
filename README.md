@@ -1,4 +1,4 @@
-# 📊 Nandini Rajput - Data Analyst**
+# 📊 Nandini Rajput - Data Analyst
 
 📧 rajputnandini367@gmail.com  
 📱 +91-8073075857  
