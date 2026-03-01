@@ -1,4 +1,4 @@
-# 👩‍💻 Nandini Rajput  
+# Nandini Rajput  
 **Data Analyst**
 
 📧 rajputnandini367@gmail.com  
