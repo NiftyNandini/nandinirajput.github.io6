@@ -87,8 +87,8 @@ Graduated: 2024
 
 ## 🤝 Let's Connect
 
-🔗 **LinkedIn:** [Click Here](https://www.linkedin.com/in/nandini-rajput-96b696254/)  
-💻 **GitHub:** [Click Here](https://github.com/your-github-username)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nandini-rajput-96b696254/)  
+💻 [GitHub](https://github.com/your-github-username) 
 
 ---
 
