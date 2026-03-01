@@ -14,7 +14,7 @@ Data Analyst specializing in **SQL, Python, Excel, and Power BI**, transforming 
 
 ## 🛠 Skills
 
-### 💻 Programming & Querying
+### 💻 Programming & Querying 
 - SQL (PostgreSQL, MySQL)  
 - Python (Pandas, NumPy)  
 - MS Excel (Advanced Formulas, Pivot Tables, VLOOKUP)  
