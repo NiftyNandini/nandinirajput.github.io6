@@ -3,6 +3,7 @@
 
 📧 rajputnandini367@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/nandini-rajput-96b696254/  
+🔗 Github: https://github.com/NiftyNandini
 📍 India  
 
 ---
